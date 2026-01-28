@@ -43,8 +43,8 @@ I am an aspiring data analyst with a strong research background in digital healt
 ---
 ## 📝 Research & Publications
 
-•	Transforming Complex Survey Data into Actionable Insights: A Data-Driven Approach for Evaluating Digital Health Programmes (Springer Nature, 2025) - Author
-•	Unlocking the Power of Generative AI in Qualitative Data Analysis: A Deep Dive into Data from a Physical Activity Service Evaluation (Springer Nature, 2025) - Co-author
+*•	Transforming Complex Survey Data into Actionable Insights: A Data-Driven Approach for Evaluating Digital Health Programmes (Springer Nature, 2025) - Author
+*•	Unlocking the Power of Generative AI in Qualitative Data Analysis: A Deep Dive into Data from a Physical Activity Service Evaluation (Springer Nature, 2025) - Co-author
 
 
 ---
