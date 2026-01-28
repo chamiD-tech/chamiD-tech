@@ -9,8 +9,6 @@ London, UK
 
 I am an aspiring data analyst with a strong research background in digital health programme evaluation and natural language processing (NLP). I enjoy working with complex datasets, building reproducible analysis pipelines, and translating data into clear insights for decision-making.
 
-**Currently seeking:** Junior Data Analyst / Graduate Data Analyst roles (open to research and industry positions).
-
 ---
 
 ## 📌 Featured Projects
@@ -34,11 +32,11 @@ I am an aspiring data analyst with a strong research background in digital healt
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, R, SQL
-**Data Analysis:** pandas, NumPy, statsmodels, scikit-learn
-**NLP / ML:** PyTorch, Transformers, BERTopic
-**Visualisation:** matplotlib, seaborn, Power BI
-**Tools:** Git, Jupyter, Colab
+* **Languages:** Python, R, SQL
+* **Data Analysis:** pandas, NumPy, statsmodels, scikit-learn
+* **NLP / ML:** PyTorch, Transformers, BERTopic
+* **Visualisation:** matplotlib, seaborn, Power BI
+* **Tools:** Git, Jupyter, Colab
 
 ---
 ## 📝 Research & Publications
